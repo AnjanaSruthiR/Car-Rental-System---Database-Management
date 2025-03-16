@@ -50,26 +50,23 @@ The Car Rental System is a comprehensive platform designed to modernize the car 
 🔑 Installation & Setup
  
  1. Database Setup
-
-  - Create the database using the provided SQL scripts (`CarRentalDatabase.sql`).  
-  - Ensure correct table relationships and indexing for optimal performance.  
-  - Configure the JDBC connection in the Java Swing application.  
+    - Create the database using the provided SQL scripts (`CarRentalDatabase.sql`).  
+    - Ensure correct table relationships and indexing for optimal performance.  
+    - Configure the JDBC connection in the Java Swing application.  
 
  2. Java Swing Application Setup
-
-- Ensure you have Java JDK 11 or higher installed.  
-- Clone the project repository.  
-    bash
-    git clone https://github.com/AnjanaSruthiR/Car-Rental-SystemDatabase-Management.git
-- Open the project in NetBeans or IntelliJ.
-- Update db.properties with the correct database credentials.
-- Build and run the application.
+    - Ensure you have Java JDK 11 or higher installed.  
+    - Clone the project repository.  
+        bash
+        git clone https://github.com/AnjanaSruthiR/Car-Rental-SystemDatabase-Management.git
+    - Open the project in NetBeans or IntelliJ.
+    - Update db.properties with the correct database credentials.
+    - Build and run the application.
 
  3. Power BI Dashboard Setup
-
-- Open the CarRentalDashboard.pbix file in Power BI Desktop.
-- Refresh the data source to connect with the live database.
-- Publish the report to Power BI Service for real-time updates.
+    - Open the CarRentalDashboard.pbix file in Power BI Desktop.
+    - Refresh the data source to connect with the live database.
+    - Publish the report to Power BI Service for real-time updates.
 
 🏗️ Database Schema
 
