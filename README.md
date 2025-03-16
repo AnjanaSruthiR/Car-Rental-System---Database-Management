@@ -4,14 +4,14 @@
  
 The Car Rental System is a comprehensive platform designed to modernize the car rental industry by enhancing customer experience, operational efficiency, and inventory management. This system replaces traditional record-keeping methods with a centralized digital solution, facilitating seamless car rentals through an integrated database, user-friendly GUI, and real-time insights via Power BI.
 
- 🎯 Project Overview
+🎯 Project Overview
  
  This project consists of three key components:
         1. Database: A robust relational database designed to manage vehicles, customers, bookings, payments, and maintenance schedules efficiently.
         2. Java Swing GUI: A user-friendly desktop application enabling CRUD (Create, Read, Update, Delete) operations for efficient management of rental operations.
         3. Power BI Dashboard: An interactive reporting solution providing insights into bookings, customer trends, vehicle performance, and revenue metrics.
 
- 🛠️ Key Features
+🛠️ Key Features
  
  Database Features
  - Rental Car Inventory Management: Track vehicle availability, pricing, and maintenance schedules.  
@@ -20,19 +20,19 @@ The Car Rental System is a comprehensive platform designed to modernize the car 
  - Booking & Payments: Enable online bookings and secure payment processing.  
  - Scalability: Seamlessly manage growing vehicle and customer data across multiple rental agencies.  
 
-Java Swing GUI Features
+ Java Swing GUI Features
  - Admin Dashboard: Manage vehicles, customers, bookings, and maintenance records.  
  - CRUD Operations: Create, view, update, and delete records for vehicles, customers, and bookings.  
  - Role-Based Access: Secure access for admin and staff, ensuring data integrity and privacy.  
  - User-Friendly Interface: Intuitive navigation and responsive design for enhanced user experience.  
 
-Power BI Dashboard Features
+ Power BI Dashboard Features
  - Booking Insights: Real-time visualization of bookings by status, location, and customer segment.  
  - Revenue Tracking: Monitor revenue trends, including daily, monthly, and yearly breakdowns.  
  - Fleet Utilization: Analyze vehicle availability, maintenance schedules, and rental frequency.  
  - Customer Insights: View booking history, preferences, and customer satisfaction trends.  
 
- 🛠️ Technology Stack
+🛠️ Technology Stack
  
  Backend & Database:
  - Database: Microsoft SQL Server  
@@ -41,19 +41,19 @@ Power BI Dashboard Features
  - Microsoft Access: For database modeling (Proof of Concept)  
  
  Frontend (GUI):
-- Java Swing: For desktop-based user interface
+ - Java Swing: For desktop-based user interface
 
  Business Intelligence:
-- Power BI: For interactive dashboards and real-time reporting  
+ - Power BI: For interactive dashboards and real-time reporting  
 
 
- 🔑 Installation & Setup
+🔑 Installation & Setup
  
  1. Database Setup
 
-- Create the database using the provided SQL scripts (`CarRentalDatabase.sql`).  
-- Ensure correct table relationships and indexing for optimal performance.  
-- Configure the JDBC connection in the Java Swing application.  
+  - Create the database using the provided SQL scripts (`CarRentalDatabase.sql`).  
+  - Ensure correct table relationships and indexing for optimal performance.  
+  - Configure the JDBC connection in the Java Swing application.  
 
  2. Java Swing Application Setup
 
