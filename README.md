@@ -13,24 +13,24 @@ The Car Rental System is a comprehensive platform designed to modernize the car 
 
 🛠️ Key Features
  
- Database Features
- - Rental Car Inventory Management: Track vehicle availability, pricing, and maintenance schedules.  
- - Customer Record Retention: Store customer details and booking history for faster check-ins and check-outs.  
- - Operational Efficiency: Automate vehicle returns, cleaning, and maintenance tasks to maximize fleet utilization.  
- - Booking & Payments: Enable online bookings and secure payment processing.  
- - Scalability: Seamlessly manage growing vehicle and customer data across multiple rental agencies.  
-
- Java Swing GUI Features
- - Admin Dashboard: Manage vehicles, customers, bookings, and maintenance records.  
- - CRUD Operations: Create, view, update, and delete records for vehicles, customers, and bookings.  
- - Role-Based Access: Secure access for admin and staff, ensuring data integrity and privacy.  
- - User-Friendly Interface: Intuitive navigation and responsive design for enhanced user experience.  
-
- Power BI Dashboard Features
- - Booking Insights: Real-time visualization of bookings by status, location, and customer segment.  
- - Revenue Tracking: Monitor revenue trends, including daily, monthly, and yearly breakdowns.  
- - Fleet Utilization: Analyze vehicle availability, maintenance schedules, and rental frequency.  
- - Customer Insights: View booking history, preferences, and customer satisfaction trends.  
+   Database Features
+   - Rental Car Inventory Management: Track vehicle availability, pricing, and maintenance schedules.  
+   - Customer Record Retention: Store customer details and booking history for faster check-ins and check-outs.  
+   - Operational Efficiency: Automate vehicle returns, cleaning, and maintenance tasks to maximize fleet utilization.  
+   - Booking & Payments: Enable online bookings and secure payment processing.  
+   - Scalability: Seamlessly manage growing vehicle and customer data across multiple rental agencies.  
+  
+   Java Swing GUI Features
+   - Admin Dashboard: Manage vehicles, customers, bookings, and maintenance records.  
+   - CRUD Operations: Create, view, update, and delete records for vehicles, customers, and bookings.  
+   - Role-Based Access: Secure access for admin and staff, ensuring data integrity and privacy.  
+   - User-Friendly Interface: Intuitive navigation and responsive design for enhanced user experience.  
+  
+   Power BI Dashboard Features
+   - Booking Insights: Real-time visualization of bookings by status, location, and customer segment.  
+   - Revenue Tracking: Monitor revenue trends, including daily, monthly, and yearly breakdowns.  
+   - Fleet Utilization: Analyze vehicle availability, maintenance schedules, and rental frequency.  
+   - Customer Insights: View booking history, preferences, and customer satisfaction trends.  
 
 🛠️ Technology Stack
  
