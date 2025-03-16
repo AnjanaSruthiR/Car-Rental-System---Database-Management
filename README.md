@@ -35,10 +35,10 @@ Power BI Dashboard Features
  🛠️ Technology Stack
  
  Backend & Database:
-        - Database: Microsoft SQL Server  
-        - Programming Language: Java (Swing for GUI)  
-        - JDBC: For database connectivity  
-        - Microsoft Access: For database modeling (Proof of Concept)  
+ - Database: Microsoft SQL Server  
+ - Programming Language: Java (Swing for GUI)  
+ - JDBC: For database connectivity  
+ - Microsoft Access: For database modeling (Proof of Concept)  
  
  Frontend (GUI):
 - Java Swing: For desktop-based user interface
